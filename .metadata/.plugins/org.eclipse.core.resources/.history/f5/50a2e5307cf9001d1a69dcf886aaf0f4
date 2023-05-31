@@ -1,0 +1,5 @@
+package com.cts.boot.model;
+
+public class User {
+
+}
